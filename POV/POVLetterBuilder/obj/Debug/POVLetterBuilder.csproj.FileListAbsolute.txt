@@ -1,0 +1,13 @@
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\bin\Debug\POVLetterBuilder.exe.config
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\bin\Debug\POVLetterBuilder.exe
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\bin\Debug\POVLetterBuilder.pdb
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\POVLetterBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\MainWindow.baml
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\MainWindow.g.cs
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\App.g.cs
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\POVLetterBuilder_MarkupCompile.cache
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\POVLetterBuilder.g.resources
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\POVLetterBuilder.Properties.Resources.resources
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\POVLetterBuilder.csproj.GenerateResource.Cache
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\POVLetterBuilder.exe
+C:\Users\Randall\Documents\Visual Studio 2013\Projects\POVLetterBuilder\POVLetterBuilder\obj\Debug\POVLetterBuilder.pdb
