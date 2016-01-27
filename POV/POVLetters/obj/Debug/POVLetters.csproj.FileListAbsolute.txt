@@ -1,0 +1,9 @@
+c:\users\randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\bin\Debug\POVLetters.exe.config
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\bin\Debug\POVLetters.exe
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\bin\Debug\POVLetters.pdb
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\obj\Debug\POVLetters.csprojResolveAssemblyReference.cache
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\obj\Debug\POVLetters.Form1.resources
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\obj\Debug\POVLetters.Properties.Resources.resources
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\obj\Debug\POVLetters.csproj.GenerateResource.Cache
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\obj\Debug\POVLetters.exe
+C:\Users\Randall\documents\visual studio 2013\Projects\POVLetters\POVLetters\obj\Debug\POVLetters.pdb
