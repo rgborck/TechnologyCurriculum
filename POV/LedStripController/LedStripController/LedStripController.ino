@@ -1,4 +1,4 @@
-boolean a [][8] PROGMEM = {
+const boolean a [][8] PROGMEM = {
   { 0, 0, 1, 1, 1, 1, 0, 0 },
   { 0, 0, 1, 1, 1, 1, 0, 0 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -9,7 +9,7 @@ boolean a [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 }
 };
 
-boolean b [][8] PROGMEM = {
+const boolean b [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 0, 0 },
   { 0, 1, 0, 0, 0, 0, 1, 0 },
   { 0, 1, 0, 0, 0, 0, 1, 0 },
@@ -20,7 +20,7 @@ boolean b [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 0, 0 }
 };
 
-boolean c [][8] PROGMEM = {
+const boolean c [][8] PROGMEM = {
   { 0, 0, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 0, 0, 0, 0, 0, 0 },
@@ -31,7 +31,7 @@ boolean c [][8] PROGMEM = {
   { 0, 0, 1, 1, 1, 1, 1, 0 }
 };
 
-boolean d [][8] PROGMEM = {
+const boolean d [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 0, 0 },
   { 1, 1, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -42,7 +42,7 @@ boolean d [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 0, 0 }
 };
 
-boolean e [][8] PROGMEM = {
+const boolean e [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 0, 0 },
   { 1, 1, 1, 1, 1, 1, 0, 0 },
   { 1, 1, 0, 0, 0, 0, 0, 0 },
@@ -53,7 +53,7 @@ boolean e [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 0, 0 }
 };
 
-boolean f [][8] PROGMEM = {
+const boolean f [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 0, 0, 0, 0, 0, 0 },
@@ -64,7 +64,7 @@ boolean f [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 0, 0 }
 };
 
-boolean g [][8] PROGMEM = {
+const boolean g [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 1 },
   { 1, 1, 1, 1, 1, 1, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 0, 0 },
@@ -75,7 +75,7 @@ boolean g [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 1 }
 };
 
-boolean h [][8] PROGMEM = {
+const boolean h [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -86,7 +86,7 @@ boolean h [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 }
 };
 
-boolean i [][8] PROGMEM = {
+const boolean i [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 0 },
   { 0, 1, 1, 1, 1, 1, 1, 0 },
   { 0, 0, 0, 1, 1, 0, 0, 0 },
@@ -97,7 +97,7 @@ boolean i [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 0 }
 };
 
-boolean j [][8] PROGMEM = {
+const boolean j [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 0 },
   { 0, 1, 1, 1, 1, 1, 1, 0 },
   { 0, 0, 0, 0, 1, 1, 0, 0 },
@@ -108,7 +108,7 @@ boolean j [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 0, 0, 0 }
 };
 
-boolean k [][8] PROGMEM = {
+const boolean k [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 1, 1, 0 },
   { 1, 1, 0, 0, 1, 1, 0, 0 },
   { 1, 1, 0, 1, 1, 0, 0, 0 },
@@ -119,7 +119,7 @@ boolean k [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 1, 1, 0 }
 };
 
-boolean l [][8] PROGMEM = {
+const boolean l [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 0, 0 },
   { 1, 1, 0, 0, 0, 0, 0, 0 },
   { 1, 1, 0, 0, 0, 0, 0, 0 },
@@ -130,7 +130,7 @@ boolean l [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 1, 0 }
 };
 
-boolean m [][8] PROGMEM = {
+const boolean m [][8] PROGMEM = {
   { 0, 1, 0, 0, 0, 0, 1, 0 },
   { 1, 1, 1, 0, 0, 1, 1, 1 },
   { 1, 1, 1, 1, 1, 1, 1, 1 },
@@ -141,7 +141,7 @@ boolean m [][8] PROGMEM = {
   { 1, 1, 0, 1, 1, 0, 1, 1 }
 };
 
-boolean n [][8] PROGMEM = {
+const boolean n [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 1, 0, 0, 0, 1, 1 },
   { 1, 1, 1, 1, 0, 0, 1, 1 },
@@ -152,7 +152,7 @@ boolean n [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 }
 };
 
-boolean o [][8] PROGMEM = {
+const boolean o [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 1, 1, 1, 1, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -163,7 +163,7 @@ boolean o [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 0 }
 };
 
-boolean p [][8] PROGMEM = {
+const boolean p [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 0, 0 },
   { 1, 1, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -174,7 +174,7 @@ boolean p [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 0, 0 }
 };
 
-boolean q [][8] PROGMEM = {
+const boolean q [][8] PROGMEM = {
   { 0, 0, 0, 0, 0, 0, 0, 0 },
   { 0, 1, 1, 1, 1, 1, 0, 0 },
   { 1, 0, 0, 0, 0, 0, 1, 0 },
@@ -185,7 +185,7 @@ boolean q [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 0, 1 }
 };
 
-boolean r [][8] PROGMEM = {
+const boolean r [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 0, 0 },
   { 1, 1, 1, 1, 1, 1, 1, 0 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -196,7 +196,7 @@ boolean r [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 1, 1, 0 }
 };
 
-boolean s [][8] PROGMEM = {
+const boolean s [][8] PROGMEM = {
   { 0, 0, 1, 1, 1, 1, 1, 0 },
   { 0, 1, 1, 1, 1, 1, 1, 1 },
   { 1, 1, 1, 0, 0, 0, 0, 0 },
@@ -207,7 +207,7 @@ boolean s [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 0, 0 }
 };
 
-boolean t [][8] PROGMEM = {
+const boolean t [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 1, 1 },
   { 1, 1, 1, 1, 1, 1, 1, 1 },
   { 0, 0, 0, 1, 1, 0, 0, 0 },
@@ -218,7 +218,7 @@ boolean t [][8] PROGMEM = {
   { 0, 0, 0, 1, 1, 0, 0, 0 }
 };
 
-boolean u [][8] PROGMEM = {
+const boolean u [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -229,7 +229,7 @@ boolean u [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 0 }
 };
 
-boolean v [][8] PROGMEM = {
+const boolean v [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
@@ -240,7 +240,7 @@ boolean v [][8] PROGMEM = {
   { 0, 0, 1, 1, 1, 1, 0, 0 }
 };
 
-boolean w [][8] PROGMEM = {
+const boolean w [][8] PROGMEM = {
   { 0, 0, 0, 0, 0, 0, 0, 0 },
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 1, 1, 0, 1, 1, 0, 1, 1 },
@@ -251,7 +251,7 @@ boolean w [][8] PROGMEM = {
   { 0, 1, 1, 1, 1, 1, 1, 0 }
 };
 
-boolean x [][8] PROGMEM = {
+const boolean x [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 0, 1, 1, 0, 0, 1, 1, 0 },
   { 0, 0, 1, 1, 1, 1, 0, 0 },
@@ -262,7 +262,7 @@ boolean x [][8] PROGMEM = {
   { 1, 0, 0, 0, 0, 0, 0, 1 }
 };
 
-boolean y [][8] PROGMEM = {
+const boolean y [][8] PROGMEM = {
   { 1, 1, 0, 0, 0, 0, 1, 1 },
   { 0, 1, 1, 0, 0, 1, 1, 0 },
   { 0, 0, 1, 1, 1, 1, 0, 0 },
@@ -273,7 +273,7 @@ boolean y [][8] PROGMEM = {
   { 0, 0, 0, 1, 1, 0, 0, 0 }
 };
 
-boolean z [][8] PROGMEM = {
+const boolean z [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 1, 1 },
   { 1, 1, 1, 1, 1, 1, 1, 1 },
   { 0, 0, 0, 0, 0, 1, 1, 1 },
@@ -284,7 +284,7 @@ boolean z [][8] PROGMEM = {
   { 1, 1, 1, 1, 1, 1, 1, 1 }
 };
 
-boolean space [][8] PROGMEM = {
+const boolean space [][8] PROGMEM = {
   { 0, 0, 0, 0, 0, 0, 0, 0 },
   { 0, 0, 0, 0, 0, 0, 0, 0 },
   { 0, 0, 0, 0, 0, 0, 0, 0 },
@@ -295,7 +295,7 @@ boolean space [][8] PROGMEM = {
   { 0, 0, 0, 0, 0, 0, 0, 0 }  
 };
 
-int dTime = 1000;
+int dTime = 30;
 String message = "Hello";
 int pins[] = {2,3,4,5,6,7,8,9};
 
@@ -305,6 +305,18 @@ void setup() {
   }
   digitalWrite(10, HIGH);
   Serial.begin(9600);
+  
+  Serial.println("Printing h");
+   for(int i=0; i<8; i++){
+    for(int j=0; j<8; j++){
+      Serial.print("letter[j=");
+      Serial.print(j);
+      Serial.print("][i=");
+      Serial.print(i);
+      Serial.print("] = ");
+      Serial.println(pgm_read_byte(&h[j][i]));
+    }
+   } 
 }
 
 // the loop function runs over and over again forever
@@ -317,11 +329,11 @@ void WriteCharacters(String letter){
   letter.toLowerCase();
   Serial.print("mesage.length: ");
   Serial.println(letter.length());
+  Serial.print("Message: ");
+  Serial.println(letter);
+  
   for(int index=0; index<letter.length(); index++){
-   if (letter[index] == 'a'){ 
-     Serial.println("Printing 'a'");
-     LightLeds(a);
-   }
+   if (letter[index] == 'a'){ Serial.println("Printing 'a'"); LightLeds(a);}
    else if (letter[index] == 'b'){ Serial.println("Printing 'b'");  LightLeds(b);}
    else if (letter[index] == 'c'){ Serial.println("Printing 'c'");  LightLeds(c);}
    else if (letter[index] == 'd'){ Serial.println("Printing 'd'");  LightLeds(d);}
@@ -351,15 +363,13 @@ void WriteCharacters(String letter){
   }
 }
 
-void LightLeds(boolean letter[8][8]){
+void LightLeds(const boolean letter[8][8]){
+  boolean l = false;
+  
   for(int i=0; i<8; i++){
     for(int j=0; j<8; j++){
-      Serial.print("letter[j][i]. j=");
-      Serial.print(j);
-      Serial.print(". i=");
-      Serial.print(i);
-
-      if (letter[j][i] == 1){
+      l = pgm_read_byte(&letter[j][i]);
+      if (l == true){
        digitalWrite(pins[j], HIGH);
       }
       else {
@@ -368,6 +378,12 @@ void LightLeds(boolean letter[8][8]){
     }
     delay(dTime);
   }
+  AllOff();
+  delay(dTime);
 }
 
-
+void AllOff() {
+ for(int i=0; i<8; i++){
+  digitalWrite(pins[i], LOW);
+ } 
+}
